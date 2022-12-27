@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartingScreenScene.unity
+    guid: 93affd905e64896419f69f90e13155f2
+  - enabled: 1
+    path: Assets/Scenes/RegistrationScene.unity
+    guid: 388079f12682a1144ab771c8086a16b2
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 304f935b6a827c94e94d35474b2fcc69
+  - enabled: 1
+    path: Assets/Scenes/MainPage.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/QRScannerScene.unity
+    guid: dd1a9545732e88f4e9a2422929911594
+  - enabled: 1
+    path: Assets/Scenes/Rules.unity
+    guid: 207fa886d744e3a4a8a7a9e662460062
+  - enabled: 1
+    path: Assets/Scenes/Achievments.unity
+    guid: 4da3bbb072fb0dd468fb5fc24fe89b5a
+  - enabled: 1
+    path: Assets/Scenes/QuestionScene.unity
+    guid: 13d45561918385442b918ed48c7c5135
+  - enabled: 1
+    path: Assets/Scenes/EndGameScene.unity
+    guid: 5e937d716294e2742851ca0a09d90a15
+  - enabled: 1
+    path: Assets/Scenes/OptionsScene.unity
+    guid: 6aefda479e7ef7a46b87e2c7f42767d2
+  - enabled: 1
+    path: Assets/Scenes/ForgotPassword.unity
+    guid: c931fe49e4afe7f4998089afbdd588c7
+  - enabled: 1
+    path: Assets/Scenes/ChangeDataScene.unity
+    guid: 9dd5e23fa3d4b7b40862ecce674233cc
+  - enabled: 1
+    path: Assets/Scenes/ChooseGameScene.unity
+    guid: f33d97d7a76c6e442882c8d639d82c92
+  - enabled: 1
+    path: Assets/Scenes/QuestionAnswerScene.unity
+    guid: d1a7c34563f4ff24e8ea8e21acfcb149
+  - enabled: 1
+    path: Assets/Scenes/ChooseEventScene.unity
+    guid: f8753f618baeb9740a1b2cde82232522
+  - enabled: 1
+    path: Assets/Scenes/EventInfoScene.unity
+    guid: 356a9ab6f62ba754cb54c6cea7187edc
+  m_configObjects: {}

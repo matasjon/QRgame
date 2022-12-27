@@ -1,0 +1,3 @@
+rep "QRgame@a158komanda@cloud"
+  path "/"
+    smartbranch "/main"
